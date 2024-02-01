@@ -1,0 +1,13 @@
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.exe
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.deps.json
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.runtimeconfig.json
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.runtimeconfig.dev.json
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.dll
+D:\C#\LinkedListEx\LinkedListEx\bin\Debug\netcoreapp3.1\LinkedListEx.pdb
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.AssemblyInfoInputs.cache
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.AssemblyInfo.cs
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.csproj.CoreCompileInputs.cache
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.dll
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.pdb
+D:\C#\LinkedListEx\LinkedListEx\obj\Debug\netcoreapp3.1\LinkedListEx.genruntimeconfig.cache
